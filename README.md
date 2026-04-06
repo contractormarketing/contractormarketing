@@ -11,7 +11,7 @@
 ### 📈 Note on Activity
 Most client work ships through private repos and direct deployments. The public repos here are live client sites and open-source projects from **[ePageUSA](https://epageusa.com)** — my web design agency.
 
-6 years on GitHub · 30+ websites built and deployed.
+6 years on GitHub · 20+ client websites live in production.
 
 ---
 
@@ -25,22 +25,37 @@ Most client work ships through private repos and direct deployments. The public 
 
 ### 🚀 Client Work — Live in Production
 
-| Client | Industry | Live Site |
-|---|---|---|
-| **ePageUSA** | Web design agency (my company) | [epageusa.com](https://epageusa.com) |
-| **Fleuristry** | Premium floral atelier — e-commerce, booking, admin dashboard | [fleuristry.com](https://fleuristry.com) |
-| **Phoenix Framing LLC** | Construction framing — dark mode, 51 real photos, email system | [phoenixframingllc.com](https://phoenixframingllc.com) |
-| **All Custom Building LLC** | General contractor — full-service construction company | [allcustombuildingllc.com](https://allcustombuildingllc.com) |
+| Client | Industry | Location | Live Site |
+|---|---|---|---|
+| **ePageUSA** | Web design agency | San Francisco / Seattle | [epageusa.com](https://epageusa.com) |
+| **Fleuristry** | Floral & weddings | Sparta, NJ | [fleuristry.com](https://fleuristry.com) |
+| **Phoenix Framing LLC** | Construction framing | Phoenix, AZ | [phoenixframingllc.com](https://phoenixframingllc.com) |
+| **All Custom Building LLC** | General contractor | — | [allcustombuildingllc.com](https://allcustombuildingllc.com) |
+| **Oceans of Data** | Technology | Reykjavik, Iceland | [oceansofdata.co](https://oceansofdata.co) |
+| **AV Talent Group** | Talent agency | Manhattan, NYC | [avtalentgroup.com](https://avtalentgroup.com) |
+| **Fox Terra Design** | Interior design | Santa Ana, CA | [foxterradesign.com](https://foxterradesign.com) |
+| **Strok Industries** | Moving company | Seattle, WA | [strokindustriesmoving.com](https://strokindustriesmoving.com) |
+| **ADP Kitchens** | Cabinetry | Boston, MA | [adp-kitchens.com](https://adp-kitchens.com) |
+| **Liberty Cabinetry** | Cabinetry | Chicago, IL | [libertycabinetrystudio.com](https://libertycabinetrystudio.com) |
+| **Rainier Delivery** | Delivery | Auburn, WA | [rainierdelivery.com](https://rainierdelivery.com) |
+| **Royal Moving** | Moving company | Seattle, WA | [royalmovingseattle.com](https://royalmovingseattle.com) |
+| **Air One Club** | Pilates studio | Dubai, UAE | [airone.club](https://airone.club) |
+| **10nis** | Sports | Dubai, UAE | [10nis.ae](https://10nis.ae) |
+| **Olgaline Design** | Interior design | Scottsdale, AZ | [olgalinedesign.com](https://olgalinedesign.com) |
+| **Mnemoverse** | EdTech | Bellevue, WA | [mnemoverse.tech](https://mnemoverse.tech) |
+| **HD.is** | Construction | Reykjavik, Iceland | [hd.is](https://hd.is) |
+| **Jet Black Transport** | Transportation | Manhattan, NYC | [jetblacktransportation.com](https://jetblacktransportation.com) |
+| **Moveable LLC** | Moving company | Tacoma, WA | [moveablellc.com](https://moveablellc.com) |
+| **Bob Theis Music** | Music | Seattle, WA | [bobtheismusic.com](https://bobtheismusic.com) |
+| **Slavic Seattle** | Community | Seattle, WA | [slavicseattle.com](https://slavicseattle.com) |
+| **Viktorija Johansen** | Photography | Seattle, WA | [viktorijajohansen.com](https://viktorijajohansen.com) |
 
-### 🏗️ More Projects
+### 💼 My Properties
 
 | Project | What It Is |
 |---|---|
 | **[arsenifilon.com](https://arsenifilon.com)** | My portfolio — GSAP animations, editorial design, Lenis smooth scroll |
-| **[Black Crow Moving](https://arsenytrf.github.io/blackcrowmoving/)** | Moving & logistics company website |
-| **[King's Banya](https://arsenytrf.github.io/kings-banya/)** | Russian bathhouse & spa |
-| **[GB Family Construction](https://arsenytrf.github.io/gb-family-construction/)** | General contractor |
-| **[Solid Stone Paving](https://arsenytrf.github.io/solid-stone-paving/)** | Masonry & paving |
+| **[ePageUSA](https://epageusa.com)** | My agency — AI chatbot, 12-industry targeting, Cloudflare Workers |
 
 ---
 
