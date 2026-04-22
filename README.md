@@ -6,16 +6,6 @@
 
 ## I turn service businesses into lead machines.
 
-Not with ads. Not with SEO tricks. With websites so good your customers sell themselves.
-
-I'm **Arseni Filon**, founder of **[ePageUSA](https://epageusa.com)** — a one-man design studio building custom-coded websites for real businesses. Movers, contractors, florists, med spas, kitchens, cabinetry — if you run a service business, I've probably shipped something in your industry.
-
-Every site is hand-built in **Next.js**, deployed to **Cloudflare**, and designed to do one thing: **convert visitors into paying customers.**
-
-No templates. No WordPress. No Wix. Just clean code and sharp design.
-
----
-
 ### 📍 50+ production sites shipped. All live. All custom.
 
 Featured work:
