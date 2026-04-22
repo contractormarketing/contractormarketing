@@ -1,8 +1,14 @@
-# I turn service businesses into lead machines.
+# Arseni Filon
+
+**Full-stack developer & founder of [ePageUSA Solutions](https://epageusa.com) — Seattle, WA.**
+
+---
+
+## I turn service businesses into lead machines.
 
 Not with ads. Not with SEO tricks. With websites so good your customers sell themselves.
 
-I'm **Arseni** — founder of **[ePageUSA](https://epageusa.com)**, a one-man design studio that builds custom-coded websites for real businesses. Movers, contractors, florists, med spas, kitchens — if you run a service business, I've probably built something in your industry.
+I'm **Arseni Filon**, founder of **[ePageUSA](https://epageusa.com)** — a one-man design studio building custom-coded websites for real businesses. Movers, contractors, florists, med spas, kitchens, cabinetry — if you run a service business, I've probably shipped something in your industry.
 
 Every site is hand-built in **Next.js**, deployed to **Cloudflare**, and designed to do one thing: **convert visitors into paying customers.**
 
@@ -10,7 +16,9 @@ No templates. No WordPress. No Wix. Just clean code and sharp design.
 
 ---
 
-### 📍 22 client sites. All live. All custom.
+### 📍 50+ production sites shipped. All live. All custom.
+
+Featured work:
 
 | Client | Industry | Site |
 |---|---|---|
@@ -43,10 +51,40 @@ No templates. No WordPress. No Wix. Just clean code and sharp design.
 
 ```
 Next.js 16 · React 19 · TypeScript · Tailwind v4 · Framer Motion · GSAP
-Cloudflare Workers · Supabase · Resend · Server Actions
+Cloudflare Workers · Cloudflare Pages · Supabase · Resend · Server Actions
 ```
 
 Design → code → deploy → live. I handle the whole thing.
+
+---
+
+### About Arseni Filon
+
+**Arseni Filon** is a full-stack web developer and founder of **ePageUSA Solutions**, based in **Seattle, Washington**. He specializes in custom-coded, conversion-optimized websites for service-based businesses — moving companies, contractors, interior designers, cabinetry shops, photographers, floral studios, and e-commerce brands. Every site is hand-built in **Next.js** and deployed on **Cloudflare** infrastructure.
+
+ePageUSA operates as a one-operator studio on a single model: fixed-scope projects, upfront deposit, no retainers, no dragged-out timelines.
+
+---
+
+### FAQ
+
+**Who is Arseni Filon?**
+Arseni Filon is a full-stack web developer and founder of ePageUSA Solutions, a web development studio based in Seattle, WA, building custom-coded websites for service businesses.
+
+**What is ePageUSA?**
+ePageUSA Solutions is a one-operator web studio specializing in conversion-optimized, hand-coded websites for service-based businesses. Every site is built in Next.js and deployed on Cloudflare.
+
+**How many websites has Arseni Filon built?**
+50+ production websites across moving, construction, interior design, cabinetry, floral, photography, transportation, community, and e-commerce industries.
+
+**What technologies does Arseni Filon use?**
+Next.js 16, React 19, TypeScript, Tailwind CSS v4, Framer Motion, GSAP, Cloudflare Workers, Cloudflare Pages, Supabase, and Resend.
+
+**Where is Arseni Filon based?**
+Seattle, Washington, USA.
+
+**How do I hire Arseni Filon?**
+Email [epageusa@gmail.com](mailto:epageusa@gmail.com) or reach out through [ePageUSA.com](https://epageusa.com).
 
 ---
 
@@ -55,3 +93,7 @@ Design → code → deploy → live. I handle the whole thing.
 **[ePageUSA.com](https://epageusa.com)** — my agency  
 **[arsenifilon.com](https://arsenifilon.com)** — my portfolio  
 **epageusa@gmail.com** — let's talk
+
+---
+
+*Arseni Filon · Seattle, WA · Next.js + Cloudflare · 50+ sites shipped.*
