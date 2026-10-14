@@ -52,25 +52,25 @@ A customer picks the size of the move and sees the crew, the hours, and a price 
 
 <br clear="left">
 
-<a href="https://llcsearchwa.com"><img src="assets/license-lookup.webp" alt="License lookup, the home page" width="48%" align="left"></a>
+<a href="https://terragcnw.com"><img src="assets/terra-install.webp" alt="Terra Install, the home page" width="48%" align="left"></a>
 
-**License lookup**  
-<sub>Data product</sub>
+**Terra Install**  
+<sub>Website and quote wizard</sub>
 
-Washington and Oregon contractor license records, 120,434 of them, in one search.
+Three trades under one license in Burien, with a quote wizard that books the site walk.
 
-[llcsearchwa.com](https://llcsearchwa.com)
+[terragcnw.com](https://terragcnw.com)
 
 <br clear="left">
 
-<a href="https://mnemoverse.tech"><img src="assets/course-platform.webp" alt="Mnemoverse, the home page" width="48%" align="left"></a>
+<a href="https://alohacarpentryconstruction.com"><img src="assets/aloha-carpentry.webp" alt="Aloha Carpentry, the home page" width="48%" align="left"></a>
 
-**Mnemoverse**  
-<sub>Platform</sub>
+**Aloha Carpentry**  
+<sub>Website and quote wizard</sub>
 
-A half-finished WordPress site became a platform the owner runs herself, in English and Russian.
+Carpentry and decks around Everett, with a quote wizard that books the site walk and 8 town pages.
 
-[mnemoverse.tech](https://mnemoverse.tech)
+[alohacarpentryconstruction.com](https://alohacarpentryconstruction.com)
 
 <br clear="left">
 
@@ -102,6 +102,6 @@ Client code is private, so this profile shows one public repository. The graph o
 
 ## Reach me
 
-Email [filon@arseni.dev](mailto:filon@arseni.dev). I answer every message myself.
+Email [filon@arseni.dev](mailto:filon@arseni.dev). I answer every message myself. On Instagram I am [arseni.dev](https://www.instagram.com/arseni.dev/).
 
 For a site or a lead system, [get a written plan](https://contractormarketingnw.com/start). The pages, the towns, the tools, the price, and the dates come back on one page before you pay anything.
