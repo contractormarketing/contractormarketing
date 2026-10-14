@@ -1,10 +1,12 @@
-<img src="assets/phones.webp" alt="Four contractor sites I built, each in Safari on an iPhone. Volks Roofing, The ICF Guys, DWV Construction, and Rainier Delivery." width="100%">
+<a href="https://arseni.dev"><img src="assets/phones.webp" alt="Four contractor sites I built, each in Safari on an iPhone. Volks Roofing, The ICF Guys, DWV Construction, and Rainier Delivery." width="100%"></a>
 
 # Arseni Filon
 
 Engineer and owner of [ePageUSA](https://epageusa.com) and [Contractor Marketing NW](https://contractormarketingnw.com). Seattle, Washington.
 
 I build lead systems for contractors. A fast site, a quote tool for your trade, and Google Ads, built together by one engineer. Every lead is traced to its search.
+
+**[arseni.dev](https://arseni.dev)**
 
 ## Systems I built. Open each one.
 
@@ -15,7 +17,7 @@ I build lead systems for contractors. A fast site, a quote tool for your trade, 
 
 A homeowner types an address and gets a measured price for a new roof before anyone calls.
 
-[volksroofing.com](https://volksroofing.com)
+[volksroofing.com](https://volksroofing.com) · [Case study](https://arseni.dev/work/roofing/)
 
 <br clear="left">
 
@@ -26,7 +28,7 @@ A homeowner types an address and gets a measured price for a new roof before any
 
 An owner-builder enters a wall length and a height and gets form counts, concrete volume, and a budget range before anyone calls.
 
-[theicfguys.com](https://theicfguys.com)
+[theicfguys.com](https://theicfguys.com) · [Case study](https://arseni.dev/work/icf-builder/)
 
 <br clear="left">
 
@@ -37,7 +39,7 @@ An owner-builder enters a wall length and a height and gets form counts, concret
 
 A search for a kitchen remodel in Portland lands on kitchens the company has already built.
 
-[dwvconstruction.com](https://dwvconstruction.com)
+[dwvconstruction.com](https://dwvconstruction.com) · [Case study](https://arseni.dev/work/design-build/)
 
 <br clear="left">
 
@@ -48,7 +50,7 @@ A search for a kitchen remodel in Portland lands on kitchens the company has alr
 
 A customer picks the size of the move and sees the crew, the hours, and a price at once, before they send anything.
 
-[rainierdelivery.com](https://rainierdelivery.com)
+[rainierdelivery.com](https://rainierdelivery.com) · [Case study](https://arseni.dev/work/moving/)
 
 <br clear="left">
 
@@ -59,7 +61,7 @@ A customer picks the size of the move and sees the crew, the hours, and a price 
 
 A master electrician in Leominster, with a page for each service and a short quote form.
 
-[northernelectricalma.com](https://northernelectricalma.com)
+[northernelectricalma.com](https://northernelectricalma.com) · [The form and the emails](https://arseni.dev/work/northern-electrical/)
 
 <br clear="left">
 
@@ -70,17 +72,17 @@ A master electrician in Leominster, with a page for each service and a short quo
 
 Three trades under one license in Burien, with a quote wizard that books the site walk.
 
-[terragcnw.com](https://terragcnw.com)
+[terragcnw.com](https://terragcnw.com) · [The form and the emails](https://arseni.dev/work/terra-install/)
 
 <br clear="left">
 
-24 client sites are live, from Seattle to Dubai.
+24 client sites are live, from Seattle to Dubai. [See all of them](https://arseni.dev/work/).
 
 ## How it is built
 
 TypeScript on Next.js, deployed to Cloudflare Workers, with a database at the edge and object storage for files. The iPhone apps are SwiftUI.
 
-**First-party analytics and lead attribution.** Every lead is stored with the visit that produced it, and the owner reads it on his own dashboard.
+**[First-party analytics and lead attribution](https://arseni.dev/work/client-dashboard/).** Every lead is stored with the visit that produced it, and the owner reads it on his own dashboard.
 
 A sample lead, as the site records it. The page is real. The customer is made up.
 
