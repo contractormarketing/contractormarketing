@@ -98,7 +98,7 @@ source     volks-wizard
 email      New inquiry, in the roofer’s inbox
 ```
 
-Client code is private, so this profile shows one public repository. The graph on this profile counts that private work, and each site pictured above is live.
+Client code is private. The graph on this profile counts that work, and each site pictured above is live.
 
 ## Reach me
 
