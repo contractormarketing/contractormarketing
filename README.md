@@ -1,89 +1,107 @@
+<img src="assets/phones.webp" alt="Four contractor sites I built, each in Safari on an iPhone. Volks Roofing, The ICF Guys, DWV Construction, and Rainier Delivery." width="100%">
+
 # Arseni Filon
 
-**Full-stack developer & founder of [ePageUSA Solutions](https://epageusa.com) — Seattle, WA.**
+Engineer and owner of [ePageUSA](https://epageusa.com) and [Contractor Marketing NW](https://contractormarketingnw.com). Seattle, Washington.
 
----
+I build lead systems for contractors. A fast site, a quote tool for your trade, and Google Ads, built together by one engineer. Every lead is traced to its search.
 
-## I turn service businesses into lead machines.
+## Systems I built. Open each one.
 
-### 📍 50+ production sites shipped. All live. All custom.
+<a href="https://volksroofing.com"><img src="assets/roofing.webp" alt="Volks Roofing, the home page" width="48%" align="left"></a>
 
-Featured work:
+**Volks Roofing**  
+<sub>Estimating engine, website, and lead pipeline</sub>
 
-| Client | Industry | Site |
-|---|---|---|
-| Fleuristry | Floral & weddings | [fleuristry.com](https://fleuristry.com) |
-| Phoenix Framing LLC | Construction | [phoenixframingllc.com](https://phoenixframingllc.com) |
-| All Custom Building | General contractor | [allcustombuildingllc.com](https://allcustombuildingllc.com) |
-| Oceans of Data | Technology | [oceansofdata.co](https://oceansofdata.co) |
-| AV Talent Group | Talent agency | [avtalentgroup.com](https://avtalentgroup.com) |
-| Fox Terra Design | Interior design | [foxterradesign.com](https://foxterradesign.com) |
-| Strok Industries | Moving | [strokindustriesmoving.com](https://strokindustriesmoving.com) |
-| ADP Kitchens | Cabinetry | [adp-kitchens.com](https://adp-kitchens.com) |
-| Liberty Cabinetry | Cabinetry | [libertycabinetrystudio.com](https://libertycabinetrystudio.com) |
-| Rainier Delivery | Delivery | [rainierdelivery.com](https://rainierdelivery.com) |
-| Royal Moving | Moving | [royalmovingseattle.com](https://royalmovingseattle.com) |
-| Air One Club | Pilates | [airone.club](https://airone.club) |
-| 10nis | Sports | [10nis.ae](https://10nis.ae) |
-| Olgaline Design | Interior design | [olgalinedesign.com](https://olgalinedesign.com) |
-| Mnemoverse | EdTech | [mnemoverse.tech](https://mnemoverse.tech) |
-| HD.is | Construction | [hd.is](https://hd.is) |
-| Jet Black Transport | Transportation | [jetblacktransportation.com](https://jetblacktransportation.com) |
-| Moveable LLC | Moving | [moveablellc.com](https://moveablellc.com) |
-| Bob Theis Music | Music | [bobtheismusic.com](https://bobtheismusic.com) |
-| Slavic Seattle | Community | [slavicseattle.com](https://slavicseattle.com) |
-| Viktorija Johansen | Photography | [viktorijajohansen.com](https://viktorijajohansen.com) |
-| Rainier Sales | E-commerce | [rainiersales.com](https://rainiersales.com) |
+A homeowner types an address and gets a measured price for a new roof before anyone calls.
 
----
+[volksroofing.com](https://volksroofing.com)
 
-### 🧰 How I build
+<br clear="left">
 
+<a href="https://theicfguys.com"><img src="assets/icf-builder.webp" alt="The ICF Guys, the home page" width="48%" align="left"></a>
+
+**The ICF Guys**  
+<sub>Estimating engine, website, Google Business Profile, and Google Ads</sub>
+
+An owner-builder enters a wall length and a height and gets form counts, concrete volume, and a budget range before anyone calls.
+
+[theicfguys.com](https://theicfguys.com)
+
+<br clear="left">
+
+<a href="https://dwvconstruction.com"><img src="assets/design-build.webp" alt="DWV Construction, the home page" width="48%" align="left"></a>
+
+**DWV Construction**  
+<sub>Website, permit check, and Google Ads</sub>
+
+A search for a kitchen remodel in Portland lands on kitchens the company has already built.
+
+[dwvconstruction.com](https://dwvconstruction.com)
+
+<br clear="left">
+
+<a href="https://rainierdelivery.com"><img src="assets/moving.webp" alt="Rainier Delivery, the home page" width="48%" align="left"></a>
+
+**Rainier Delivery**  
+<sub>Cost calculator and website</sub>
+
+A customer picks the size of the move and sees the crew, the hours, and a price at once, before they send anything.
+
+[rainierdelivery.com](https://rainierdelivery.com)
+
+<br clear="left">
+
+<a href="https://llcsearchwa.com"><img src="assets/license-lookup.webp" alt="License lookup, the home page" width="48%" align="left"></a>
+
+**License lookup**  
+<sub>Data product</sub>
+
+Washington and Oregon contractor license records, 120,434 of them, in one search.
+
+[llcsearchwa.com](https://llcsearchwa.com)
+
+<br clear="left">
+
+<a href="https://mnemoverse.tech"><img src="assets/course-platform.webp" alt="Mnemoverse, the home page" width="48%" align="left"></a>
+
+**Mnemoverse**  
+<sub>Platform</sub>
+
+A half-finished WordPress site became a platform the owner runs herself, in English and Russian.
+
+[mnemoverse.tech](https://mnemoverse.tech)
+
+<br clear="left">
+
+24 client sites are live, from Seattle to Dubai.
+
+## Also built
+
+- **First-party analytics and lead attribution.** Every lead is stored with the visit that produced it, and the owner reads it on his own dashboard.
+- **The Contractor Marketing NW app.** Every lead from a contractor’s site is on his phone the same minute, and the signed dollars sit next to what the ads cost. Version 1.0 built.
+- **Trusted Contractor, a contractor review platform.** A review is marked verified only when the homeowner confirms the job and a document or payment backs it. Opens soon.
+
+## How it is built
+
+TypeScript on Next.js, deployed to Cloudflare Workers, with a database at the edge and object storage for files. The iPhone apps are SwiftUI.
+
+A sample lead, as the site records it. The page is real. The customer is made up.
+
+```text
+search     roof replacement camas
+landing    /areas/camas
+project    Roof replacement
+urgency    Within the week
+estimate   Site walk, Wednesday
+source     volks-wizard
+email      New inquiry, in the roofer’s inbox
 ```
-Next.js 16 · React 19 · TypeScript · Tailwind v4 · Framer Motion · GSAP
-Cloudflare Workers · Cloudflare Pages · Supabase · Resend · Server Actions
-```
 
-Design → code → deploy → live. I handle the whole thing.
+Client code is private, so this profile shows one public repository. The graph on this profile counts that private work, and each site pictured above is live.
 
----
+## Reach me
 
-### About Arseni Filon
+Email [filon@arseni.dev](mailto:filon@arseni.dev). I answer every message myself.
 
-**Arseni Filon** is a full-stack web developer and founder of **ePageUSA Solutions**, based in **Seattle, Washington**. He specializes in custom-coded, conversion-optimized websites for service-based businesses — moving companies, contractors, interior designers, cabinetry shops, photographers, floral studios, and e-commerce brands. Every site is hand-built in **Next.js** and deployed on **Cloudflare** infrastructure.
-
-ePageUSA operates as a one-operator studio on a single model: fixed-scope projects, upfront deposit, no retainers, no dragged-out timelines.
-
----
-
-### FAQ
-
-**Who is Arseni Filon?**
-Arseni Filon is a full-stack web developer and founder of ePageUSA Solutions, a web development studio based in Seattle, WA, building custom-coded websites for service businesses.
-
-**What is ePageUSA?**
-ePageUSA Solutions is a one-operator web studio specializing in conversion-optimized, hand-coded websites for service-based businesses. Every site is built in Next.js and deployed on Cloudflare.
-
-**How many websites has Arseni Filon built?**
-50+ production websites across moving, construction, interior design, cabinetry, floral, photography, transportation, community, and e-commerce industries.
-
-**What technologies does Arseni Filon use?**
-Next.js 16, React 19, TypeScript, Tailwind CSS v4, Framer Motion, GSAP, Cloudflare Workers, Cloudflare Pages, Supabase, and Resend.
-
-**Where is Arseni Filon based?**
-Seattle, Washington, USA.
-
-**How do I hire Arseni Filon?**
-Email [epageusa@gmail.com](mailto:epageusa@gmail.com) or reach out through [ePageUSA.com](https://epageusa.com).
-
----
-
-### 🔗 Find me
-
-**[ePageUSA.com](https://epageusa.com)** — my agency  
-**[arsenifilon.com](https://arsenifilon.com)** — my portfolio  
-**epageusa@gmail.com** — let's talk
-
----
-
-*Arseni Filon · Seattle, WA · Next.js + Cloudflare · 50+ sites shipped.*
+For a site or a lead system, [get a written plan](https://contractormarketingnw.com/start). The pages, the towns, the tools, the price, and the dates come back on one page before you pay anything.
