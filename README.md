@@ -85,13 +85,13 @@ TypeScript on Next.js, deployed to Cloudflare Workers, with a database at the ed
 A sample lead, as the site records it. The page is real. The customer is made up.
 
 ```text
-search     deck builder everett
-landing    /areas/everett
-project    Decks and outdoor living
-urgency    Within the week
-estimate   Site walk, Wednesday
-source     aloha-wizard
-email      New inquiry, in the owner’s inbox
+search     icf builder white salmon
+landing    /areas/white-salmon
+project    ICF home
+stage      Plans drawn up
+estimate   Site walk, Thursday
+source     multi-step-estimate-form
+email      Site walk requested, in the builder’s inbox
 ```
 
 Client code is private. The graph on this profile counts that work, and each site pictured above is live.
