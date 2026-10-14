@@ -52,14 +52,14 @@ A customer picks the size of the move and sees the crew, the hours, and a price 
 
 <br clear="left">
 
-<a href="https://allcustombuildingllc.com"><img src="assets/all-custom-building.webp" alt="All Custom Building, the home page" width="48%" align="left"></a>
+<a href="https://artigianoremodeling.com"><img src="assets/artigiano-remodeling.webp" alt="Artigiano Remodeling, the home page" width="48%" align="left"></a>
 
-**All Custom Building**  
-<sub>Website and cost calculator</sub>
+**Artigiano Remodeling**  
+<sub>Website and estimate form</sub>
 
-Remodels, painting, landscaping, and new builds, with a cost calculator that shows a price range on the spot.
+Kitchen and bath remodeling around Hinsdale, with 15 town pages and a written estimate form.
 
-[allcustombuildingllc.com](https://allcustombuildingllc.com)
+[artigianoremodeling.com](https://artigianoremodeling.com)
 
 <br clear="left">
 
