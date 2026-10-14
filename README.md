@@ -52,14 +52,14 @@ A customer picks the size of the move and sees the crew, the hours, and a price 
 
 <br clear="left">
 
-<a href="https://artigianoremodeling.com"><img src="assets/artigiano-remodeling.webp" alt="Artigiano Remodeling, the home page" width="48%" align="left"></a>
+<a href="https://northernelectricalma.com"><img src="assets/northern-electrical.webp" alt="Northern Electrical, the home page" width="48%" align="left"></a>
 
-**Artigiano Remodeling**  
-<sub>Website and estimate form</sub>
+**Northern Electrical**  
+<sub>Website and quote form</sub>
 
-Kitchen and bath remodeling around Hinsdale, with 15 town pages and a written estimate form.
+A master electrician in Leominster, with a page for each service and a short quote form.
 
-[artigianoremodeling.com](https://artigianoremodeling.com)
+[northernelectricalma.com](https://northernelectricalma.com)
 
 <br clear="left">
 
