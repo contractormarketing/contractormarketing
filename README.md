@@ -52,6 +52,17 @@ A customer picks the size of the move and sees the crew, the hours, and a price 
 
 <br clear="left">
 
+<a href="https://allcustombuildingllc.com"><img src="assets/all-custom-building.webp" alt="All Custom Building, the home page" width="48%" align="left"></a>
+
+**All Custom Building**  
+<sub>Website and cost calculator</sub>
+
+Remodels, painting, landscaping, and new builds, with a cost calculator that shows a price range on the spot.
+
+[allcustombuildingllc.com](https://allcustombuildingllc.com)
+
+<br clear="left">
+
 <a href="https://terragcnw.com"><img src="assets/terra-install.webp" alt="Terra Install, the home page" width="48%" align="left"></a>
 
 **Terra Install**  
@@ -63,28 +74,13 @@ Three trades under one license in Burien, with a quote wizard that books the sit
 
 <br clear="left">
 
-<a href="https://alohacarpentryconstruction.com"><img src="assets/aloha-carpentry.webp" alt="Aloha Carpentry, the home page" width="48%" align="left"></a>
-
-**Aloha Carpentry**  
-<sub>Website and quote wizard</sub>
-
-Carpentry and decks around Everett, with a quote wizard that books the site walk and 8 town pages.
-
-[alohacarpentryconstruction.com](https://alohacarpentryconstruction.com)
-
-<br clear="left">
-
 24 client sites are live, from Seattle to Dubai.
-
-## Also built
-
-- **First-party analytics and lead attribution.** Every lead is stored with the visit that produced it, and the owner reads it on his own dashboard.
-- **The Contractor Marketing NW app.** Every lead from a contractor’s site is on his phone the same minute, and the signed dollars sit next to what the ads cost. Version 1.0 built.
-- **Trusted Contractor, a contractor review platform.** A review is marked verified only when the homeowner confirms the job and a document or payment backs it. Opens soon.
 
 ## How it is built
 
 TypeScript on Next.js, deployed to Cloudflare Workers, with a database at the edge and object storage for files. The iPhone apps are SwiftUI.
+
+**First-party analytics and lead attribution.** Every lead is stored with the visit that produced it, and the owner reads it on his own dashboard.
 
 A sample lead, as the site records it. The page is real. The customer is made up.
 
